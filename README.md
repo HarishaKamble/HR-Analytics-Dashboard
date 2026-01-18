@@ -5,6 +5,7 @@ This HR analytics Tableau project is aimed at providing HR managers and business
 This includes trendline and target line to help HR managers track progress toward reducing attrition. It has charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
 Technologies Used:
+
 • Advance Excel 
 
 • Tableau
@@ -12,6 +13,7 @@ Technologies Used:
 • Statistics 
 
 STEPS OVERVIEW:
+
 Data subset collected from online.
 Understanding the Data.
 Loading Libraries.
@@ -19,6 +21,7 @@ Data Cleaning & Finding Missing values.
 Data Visualization.
 
 DATA CLEANING:
+
 Open Dataset in Excel and Make a Copy of Dataset for security purpose.
 
 Remove Duplicates.
